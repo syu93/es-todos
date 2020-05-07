@@ -3,7 +3,7 @@ module.exports = {
     enabled: process.env.NODE_ENV === 'production' ? true : false,
     content: [
       './**/*.html',
-      './**/*.js'
+      './js/**/*.js'
     ],
   },
   theme: {

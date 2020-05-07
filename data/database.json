@@ -1,12 +1,13 @@
 {
   "todos": [
     {
-      "id": 1588762935032,
-      "title": "plop",
-      "synced": false,
-      "updated": false,
-      "done": false,
-      "date": 1588762935032
+      "id": 1588813459742,
+      "title": "Plop",
+      "synced": "true",
+      "updated": "false",
+      "done": "false",
+      "deleted": "false",
+      "date": 1588813459742
     }
   ]
 }
